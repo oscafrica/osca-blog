@@ -2,8 +2,6 @@
 
 > This guide is for new Chapter leads and Technical Writers
 
-If you would like to share your expertise, and experience on OSCA blog, please read the following guidelines carefully.
-
 # Chapter Leads
 
 As chapter leads, it is expected that you write a recap article after every event like [this](https://blog.oscafrica.org/oscalagos-give-back-weekend-recap-cjz0fie64000n3ds1woj5ukpc) which would be published on our blog. Here's how to get started:
@@ -30,3 +28,19 @@ As chapter leads, it is expected that you write a recap article after every even
 
 - Write your article on Hashnode like so:
 
+![osca-screen.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1575362652364/m0_7MdoD4.png)
+
+- Scroll to the buttom of the editor and locate the **Post this to a publication?** section
+- Select `blog.oscafrica.org` from the dropdown list like so
+
+![osca-screen2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1575362751430/Yl2RIEDIs.png)
+
+- Now click the **Publish** button to submit the post for review
+- You will be get an edit link after submission on the next page where you can make changes to your submission before final reviews
+- Contact any member of the Technical Writing team again on [Zulip](https://oscafrica.zulipchat.com/) or Bolaji on [Twitter](https://twitter.com/iambolajiayo) to request for a review
+- Your submiited article will be reviewed and some changes will be made with feedbacks related back to you
+- Upon successful reviews, it would be published on the blog.
+
+## Technical Writers
+
+If you would like to share your expertise, and experience on OSCA blog, please read the...
