@@ -14,9 +14,9 @@ As chapter leads, it is expected that you write a recap article after every even
   - Link to event photos
   - Attendees feedback(s)
   - Special thanks to sponsor(s), speaker(s) and attendees
-  - Conclusion
+  - Conclusion <br />
   
-  > Your draft should be submitted on or before 72 hours after the event, if there would be any delays, feel free to contact Admin.
+ > Your draft should be submitted on or before 72 hours after the event. If there would be any delays, feel free to contact the Technical Writing Team.
   
 - Our blog is powered by [Devblog](https://hashnode.com/devblog) Team Publication and it is expected that you create a Devblog account to have your articles published with us.
   - Head to https://hashnode.com and create an account
