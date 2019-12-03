@@ -12,15 +12,15 @@ Open Source Community Africa (O.S.C.A) is for open source lovers, enthusiasts, a
 
 ## General Writing Rules
 
-Towards changing the perception of Africans from just the billion users to the NEXT BILLION CREATORS, we publish internal contents, chapter recap articles and guest posts on our [Blog](https://blog.oscafrica.org/). Before we publish your content please ensure that you are willing to agree to the following terms.
+Towards changing the perception of Africans from just the billion users to the NEXT BILLION CREATORS, we publish internal contents, chapter recap articles, and guest posts on our [Blog](https://blog.oscafrica.org/). Before we publish your content, please ensure that you are willing to agree to the following terms.
 
 - You must abide by our [Code of Conduct](https://github.com/oscommunityafrica/oscommunityafrica.github.io/blob/master/CODE_OF_CONDUCT.md)
 - Your submission must be Open Source related
-- Plagiarism is a crime, your content must be original and all extracts must be attributed accurately
+- Plagiarism is a crime, your content must be original, and all extracts must be attributed accurately
 - Your content should not include promotional materials or links
-- We reserve the right to edit your content to remove typographical errors, grammatical errors and to improve the title.
+- We reserve the right to edit your content to remove typographical errors, grammatical errors, and to improve the title.
 - Your content will be shared on all our social media
-- Not all submited content will be published, we will provide feedback(s) where neccessary
+- Not all submitted content will be published, we will provide feedback(s) where necessary
 
 
 ## Guide for Chapter Leads
@@ -72,13 +72,12 @@ We accept guest posts from just any amazing human with excellent technical writi
 - Culture
 - Tools
 - Programs
-- Updates
 - Research
 - Ideas
 - Conventions 
 - and lot's more.
 
-We keep an Open [OSCA Writing Ideas Doc](https://paper.dropbox.com/doc/OSCA-Writing-Ideas-2019--ApwHX6bECdjKiyUBbz6u9ZKaAQ-hW0tFGnTDp68J6xqUpdLK), you can pick an idea and request to work on it or add your own idea and work on it.
+We keep an Open [OSCA Writing Ideas Doc](https://paper.dropbox.com/doc/OSCA-Writing-Ideas-2019--ApwHX6bECdjKiyUBbz6u9ZKaAQ-hW0tFGnTDp68J6xqUpdLK), you can pick an idea and request to work on it or add your own idea.
 
 ### Why Guest Post?
 Submitting a guest post helps put your content in front of amazing Open Source creators and contributors across the globe, It is also a great way to build your technical writing portfolio and an opportunity to work with the amazing humans at Open Source Community Africa.
@@ -86,16 +85,15 @@ Submitting a guest post helps put your content in front of amazing Open Source c
 - Your article is published by you on our Blog, we don't take any credits for them.
 - We help you market your article by sharing it across all our social media.
 - Our Technical writing team is top-notch, you will get an opportunity to get your article reviewed by an experienced writer.
-- Top organizations [sponsoring us](https://opencollective.com/osca) will see your article including Facebook Open Source and Google Open Source amongst others.
+- Top organizations [sponsoring us](https://opencollective.com/osca) will see your article, including Facebook Open Source and Google Open Source, amongst others.
 - When you attend any OSCA organized event, you will be celebrated with some fantastic event swags.
 
-Convinced now? Please reachout and let's get started on that brilliant idea 🙂.
+Convinced now? Please reach out, and let's get started on that brilliant idea 🙂.
 
 ## Contribute
 
-Got any suggestion(s) on how to improve this Document? You can suggest them by creating a Issue or Pull Request [here](https://github.com/oscommunityafrica/osca-blog)
+Got any suggestion(s) on how to improve this Document? You can suggest them by creating an Issue or Pull Request [here](https://github.com/oscommunityafrica/osca-blog)
 
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
-
