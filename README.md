@@ -1,3 +1,7 @@
+<div align="center"  style="margin-bottom:30px">
+  <img src="NXTBC.png" alt="Logo" width='500px' height='auto'/>
+</div>
+
 # OnBoarding Guidelines for Technical Writers
 
 > This guide is for new Chapter leads and Technical Writers
