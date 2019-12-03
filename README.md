@@ -20,7 +20,7 @@ As chapter leads, it is expected that you write a recap article after every even
   
 - Our blog is powered by [Devblog](https://hashnode.com/devblog) Team Publication and it is expected that you create a Devblog account to have your articles published with us.
   - Head to https://hashnode.com and create an account
-  - Head to https://hashnode.com/devblog and create your personal Devblog (If you get stuck, please read the docs or contact support
+  - Head to https://hashnode.com/devblog and create your personal Devblog [If you get stuck, please read the docs or contact Support]
   - Now you should have your blog on `<your username>.hashnode.dev`
 - Contact any member of the Technical Writing team on [Zulip](https://oscafrica.zulipchat.com/) or Bolaji on [Twitter](https://twitter.com/iambolajiayo) to request access to the blog
 
