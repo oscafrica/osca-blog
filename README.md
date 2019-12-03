@@ -1,1 +1,1 @@
-# blog.oscafrica.org
+# OnBoarding Guidelines for Technical Writers
