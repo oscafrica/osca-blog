@@ -1,6 +1,4 @@
-<div align="center"  style="margin-bottom:30px">
-  <img src="https://res.cloudinary.com/osca/image/upload/v1575379564/NXTBC.png" alt="Logo" width='500px' height='auto'/>
-</div>
+![](https://res.cloudinary.com/osca/image/upload/v1575379564/NXTBC.png)
 
 # OnBoarding Guidelines
 
@@ -35,7 +33,7 @@ As chapter leads, it is expected that you write a recap article after every even
   - Link to event photos
   - Attendees feedback(s)
   - Special thanks to sponsor(s), speaker(s) and attendees
-  - Conclusion <br />
+  - Conclusion
   
  > Your draft should be submitted on or before 72 hours after the event. If there would be any delays, feel free to contact the Technical Writing Team.
   
@@ -96,4 +94,5 @@ Got any suggestion(s) on how to improve this Document? You can suggest them by c
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+![](https://i.creativecommons.org/l/by/3.0/88x31.png)
+This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
